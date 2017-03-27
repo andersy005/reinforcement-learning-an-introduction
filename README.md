@@ -8,6 +8,18 @@ This repository contains code, exercises and solutions for popular Reinforcement
 - [Reinforcement Learning: An Introduction (2nd Edition)](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
 - [David Silver's Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
+
+# Environment and Libraries
+* Python3
+* Jupyter notebook
+* Numpy
+* Matplotlib
+* Six
+* Seaborn
+
+
+All code is written in Python 3 and uses RL environments from [OpenAI Gym](https://gym.openai.com/). Advanced techniques use [Tensorflow](https://www.tensorflow.org/) for neural network implementations.
+
 _________________________________________________________________________________________________
 
 # TODO
@@ -26,3 +38,55 @@ ________________________________________________________________________________
 - [ ] [Lecture 10: Case Study: RL in Classic Games](https://www.youtube.com/watch?v=kZ_AUmFcZtk)
 
 ### [2. Reinforcement Learning Assignment: Easy21](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching_files/Easy21-Johannes.pdf)
+
+
+____________________________________________________________________________________________________________________________________
+
+# Reinforcement Learning: An Introduction
+
+Notebooks for Sutton & Barto's book [*Reinforcement Learning: An Introduction (2nd Edition)*](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
+
+# Contents
+
+
+### Chapter 1: The Reinforcement Learning Problem 
+
+
+### Chapter 2: Multi-arm Bandits
+
+
+### Chapter 3: Finite Markov Decision Processes
+
+
+### Chapter 4: Dynamic Programming
+
+
+### Chapter 5: Monte Carlo Methods
+
+
+### Chapter 6: Temporal-Difference Learning
+
+
+### Chapter 7: Multi-step Bootstrapping
+
+### Chapter 8: Planning and Learning with Tabular Methods
+
+
+### Chapter 9: On-policy Prediction with Approximation
+
+
+### Chapter 10: On-policy Control with Approximation
+
+
+### Chapter 11: Off-policy Methods with Approximation
+
+
+### Chapter 12: Eligibility Traces
+
+### Chapter 13: Policy Gradient Methods
+
+
+### Extra
+
+
+
